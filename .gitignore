@@ -1,0 +1,26 @@
+
+## ✅ `.gitignore`
+
+```gitignore
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary executable
+*.exe
+*.out
+*.a
+*.so
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
